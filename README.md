@@ -12,6 +12,7 @@ Com ferramentas e recursos modernos, o Android ajuda a criar apps para smartphon
  &nbsp;
 
 # Desenvolver apps Android com o Kotlin
+https://developer.android.com/courses/android-basics-kotlin/course
 
 Crie apps Android melhores com mais rapidez usando o Kotlin. Essa linguagem de programação moderna e estaticamente tipada é usada por mais de 60% dos desenvolvedores Android profissionais. Ela ajuda a aumentar a produtividade, a satisfação dos desenvolvedores e a segurança do código.
 
