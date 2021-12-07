@@ -20,8 +20,6 @@ Crie apps Android melhores com mais rapidez usando o Kotlin. Essa linguagem de p
 
 :computer: &nbsp; **Meu Perfil de Desenvolvedor Google [aqui](https://developers.google.com/profile/u/113596080452567611969?utm_source=developer.android.com)**
 
-:star: &nbsp; **View My Badge [here](https://www.hackerrank.com/TalluriSumanth22)** 
-
 
 
 &nbsp;
