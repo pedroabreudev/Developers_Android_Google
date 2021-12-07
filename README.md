@@ -29,10 +29,10 @@ Crie apps Android melhores com mais rapidez usando o Kotlin. Essa linguagem de p
 |  Cursos   |   Android Basics in Kotlin                                               |
 |-----------|:-------------------------------------------------------------------------------------------------------------: |
 |  Unit 1   |  [Kotlin basics](https://developer.android.com/courses/android-basics-kotlin/unit-1)      |
-|  Unit 1   |  [Introduction to Kotlin](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2001:%20Data%20Types)      |
-|  Unit 1   |  [Create your first app](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2002:%20Operators)  |
-|  Unit 1   |  [Build a basic layout](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2003:%20Intro%20to%20Conditional%20Statements)   |
-|  Unit 1   |  [Add a button to an app](https://github.com/Sumanth-Talluri/HackerRank-30-Days-of-Code/tree/master/Day%2003:%20Intro%20to%20Conditional%20Statements)   |
+|  Unit 1   |  [Introduction to Kotlin]()      |
+|  Unit 1   |  [Create your first app]()  |
+|  Unit 1   |  [Build a basic layout](https://github.com/pedroabreudev/Developers_Android_Google/tree/main/Kotlin/Android%20Basic%20in%20Kotlin/Unit_1-Kotlin_Basics/BasicLayout) |
+|  Unit 1   |  [Add a button to an app]()   |
 
 
 |  Cursos   |   Android Basics in Kotlin                                               |
